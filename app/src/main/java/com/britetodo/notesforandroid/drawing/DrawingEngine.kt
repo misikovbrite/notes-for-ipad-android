@@ -89,14 +89,14 @@ class DrawingEngine {
 
     fun undo() {
         if (strokes.isNotEmpty()) {
-            val last = strokes.removeLast()
+            val last = strokes.removeAt(strokes.lastIndex)
             undoStack.add(last)
         }
     }
 
     fun redo() {
         if (undoStack.isNotEmpty()) {
-            val next = undoStack.removeLast()
+            val next = undoStack.removeAt(undoStack.lastIndex)
             strokes.add(next)
         }
     }
