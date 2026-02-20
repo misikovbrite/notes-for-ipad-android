@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "TODO_REPLACE_PROJECT_NUMBER",
-    "project_id": "notes-for-android-TODO",
-    "storage_bucket": "notes-for-android-TODO.appspot.com"
+    "project_number": "879899183380",
+    "project_id": "notes-for-ipad-3f442",
+    "storage_bucket": "notes-for-ipad-3f442.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:TODO:android:TODO",
+        "mobilesdk_app_id": "1:879899183380:android:9b51b484bc6de6efdc5a01",
         "android_client_info": {
           "package_name": "com.britetodo.notesforandroid"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "TODO_REPLACE_WITH_ACTUAL_API_KEY"
+          "current_key": "AIzaSyB8AEOkfc6Hlz2tIUztl0-yN9eyyBd9rQ8"
         }
       ],
       "services": {

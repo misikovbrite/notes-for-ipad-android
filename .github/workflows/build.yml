@@ -35,34 +35,6 @@ jobs:
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
 
-      - name: Create placeholder google-services.json
-        run: |
-          cat > app/google-services.json << 'EOF'
-          {
-            "project_info": {
-              "project_number": "000000000000",
-              "project_id": "notes-for-android-placeholder",
-              "storage_bucket": "notes-for-android-placeholder.appspot.com"
-            },
-            "client": [
-              {
-                "client_info": {
-                  "mobilesdk_app_id": "1:000000000000:android:0000000000000000",
-                  "android_client_info": {
-                    "package_name": "com.britetodo.notesforandroid"
-                  }
-                },
-                "oauth_client": [],
-                "api_key": [{"current_key": "placeholder_key"}],
-                "services": {"appinvite_service": {"other_platform_oauth_client": []}}
-              }
-            ],
-            "configuration_version": "1"
-          }
-          EOF
-          # Remove real google-services.json to use placeholder only
-          cp app/google-services.json /tmp/gsp_backup.json || true
-
       - name: Build debug APK
         run: ./gradlew assembleDebug --stacktrace
 
