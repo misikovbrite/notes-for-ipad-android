@@ -113,9 +113,6 @@ dependencies {
     // Kotlin Serialization (JSON for strokes/stickers)
     implementation(libs.serialization.json)
 
-    // Google Play Billing
-    implementation(libs.billing)
-
     // Adaptive layout
     implementation(libs.adaptive)
 }

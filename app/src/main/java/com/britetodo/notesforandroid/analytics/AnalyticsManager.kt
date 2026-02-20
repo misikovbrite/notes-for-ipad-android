@@ -63,18 +63,6 @@ class AnalyticsManager @Inject constructor() {
         putInt("page_count", pageCount)
     })
 
-    // ─── Monetization events ──────────────────────────────────────────────
-
-    fun logPaywallShown(source: String) = logEvent("paywall_shown", Bundle().apply {
-        putString("source", source)
-    })
-
-    fun logPaywallDismissed() = logEvent("paywall_dismissed")
-
-    fun logSubscriptionStarted(planId: String) = logEvent("subscription_started", Bundle().apply {
-        putString("plan_id", planId)
-    })
-
     // ─── Private helpers ──────────────────────────────────────────────────
 
     private fun logEvent(name: String, params: Bundle? = null) {

@@ -83,7 +83,7 @@ data class Template(
     val type: TemplateType,
     val name: String,
     val category: String,
-    val isPremium: Boolean = false,
+    val isUnlocked: Boolean = true,
     val colorThemeId: String = "classic",
     val iconResName: String = "ic_template_blank",
     val description: String = "",

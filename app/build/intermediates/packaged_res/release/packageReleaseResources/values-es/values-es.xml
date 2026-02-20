@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_page">Añadir página</string>
+    <string name="app_name">Notas para Android</string>
+    <string name="cancel">Cancelar</string>
+    <string name="choose_template">Elegir plantilla</string>
+    <string name="create">Crear</string>
+    <string name="create_notebook">Crear cuaderno</string>
+    <string name="daily_planner">Planificador diario</string>
+    <string name="delete">Eliminar</string>
+    <string name="done">Listo</string>
+    <string name="export_pdf">Exportar PDF</string>
+    <string name="habit_tracker">Seguimiento de hábitos</string>
+    <string name="journal">Diario</string>
+    <string name="monthly_planner">Planificador mensual</string>
+    <string name="my_notebooks">Mis cuadernos</string>
+    <string name="new_notebook">Nuevo cuaderno</string>
+    <string name="no_notebooks_message">Crea tu primer cuaderno para empezar</string>
+    <string name="no_notebooks_title">Sin cuadernos aún</string>
+    <string name="notebook_name">Nombre del cuaderno</string>
+    <string name="notes_premium">Notas Premium</string>
+    <string name="onboarding_get_started">Empezar</string>
+    <string name="onboarding_next">Siguiente</string>
+    <string name="onboarding_skip">Omitir</string>
+    <string name="redo">Rehacer</string>
+    <string name="restore_purchases">Restaurar compras</string>
+    <string name="save">Guardar</string>
+    <string name="settings">Ajustes</string>
+    <string name="start_free_trial">Prueba gratuita</string>
+    <string name="subscribe_now">Suscribirse ahora</string>
+    <string name="template">Plantilla</string>
+    <string name="undo">Deshacer</string>
+    <string name="weekly_planner">Planificador semanal</string>
+</resources>
