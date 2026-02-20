@@ -60,6 +60,8 @@ jobs:
             "configuration_version": "1"
           }
           EOF
+          # Remove real google-services.json to use placeholder only
+          cp app/google-services.json /tmp/gsp_backup.json || true
 
       - name: Build debug APK
         run: ./gradlew assembleDebug --stacktrace
