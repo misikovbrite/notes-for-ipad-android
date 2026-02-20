@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "TODO_REPLACE_PROJECT_NUMBER",
+    "project_id": "notes-for-android-TODO",
+    "storage_bucket": "notes-for-android-TODO.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:TODO:android:TODO",
+        "android_client_info": {
+          "package_name": "com.britetodo.notesforandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "TODO_REPLACE_WITH_ACTUAL_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

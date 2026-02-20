@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas para Android</string>
+    <string name="my_notebooks">Meus cadernos</string>
+    <string name="create_notebook">Criar caderno</string>
+    <string name="no_notebooks_title">Nenhum caderno ainda</string>
+    <string name="no_notebooks_message">Crie seu primeiro caderno para começar</string>
+    <string name="new_notebook">Novo caderno</string>
+    <string name="notebook_name">Nome do caderno</string>
+    <string name="cancel">Cancelar</string>
+    <string name="create">Criar</string>
+    <string name="delete">Excluir</string>
+    <string name="settings">Configurações</string>
+    <string name="template">Modelo</string>
+    <string name="choose_template">Escolher modelo</string>
+    <string name="daily_planner">Planejador diário</string>
+    <string name="weekly_planner">Planejador semanal</string>
+    <string name="monthly_planner">Planejador mensal</string>
+    <string name="habit_tracker">Rastreador de hábitos</string>
+    <string name="journal">Diário</string>
+    <string name="onboarding_get_started">Começar</string>
+    <string name="onboarding_next">Próximo</string>
+    <string name="onboarding_skip">Pular</string>
+    <string name="notes_premium">Notas Premium</string>
+    <string name="start_free_trial">Começar teste grátis</string>
+    <string name="subscribe_now">Assinar agora</string>
+    <string name="restore_purchases">Restaurar compras</string>
+    <string name="add_page">Adicionar página</string>
+    <string name="export_pdf">Exportar PDF</string>
+    <string name="undo">Desfazer</string>
+    <string name="redo">Refazer</string>
+    <string name="done">Concluído</string>
+    <string name="save">Salvar</string>
+</resources>

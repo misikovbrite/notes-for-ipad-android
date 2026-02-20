@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes pour Android</string>
+    <string name="my_notebooks">Mes carnets</string>
+    <string name="create_notebook">Créer un carnet</string>
+    <string name="no_notebooks_title">Aucun carnet encore</string>
+    <string name="no_notebooks_message">Créez votre premier carnet pour commencer</string>
+    <string name="new_notebook">Nouveau carnet</string>
+    <string name="notebook_name">Nom du carnet</string>
+    <string name="cancel">Annuler</string>
+    <string name="create">Créer</string>
+    <string name="delete">Supprimer</string>
+    <string name="settings">Paramètres</string>
+    <string name="template">Modèle</string>
+    <string name="choose_template">Choisir un modèle</string>
+    <string name="daily_planner">Planificateur quotidien</string>
+    <string name="weekly_planner">Planificateur hebdomadaire</string>
+    <string name="monthly_planner">Planificateur mensuel</string>
+    <string name="habit_tracker">Suivi des habitudes</string>
+    <string name="journal">Journal</string>
+    <string name="onboarding_get_started">Commencer</string>
+    <string name="onboarding_next">Suivant</string>
+    <string name="onboarding_skip">Passer</string>
+    <string name="notes_premium">Notes Premium</string>
+    <string name="start_free_trial">Essai gratuit</string>
+    <string name="subscribe_now">S\'abonner</string>
+    <string name="restore_purchases">Restaurer les achats</string>
+    <string name="add_page">Ajouter une page</string>
+    <string name="export_pdf">Exporter en PDF</string>
+    <string name="undo">Annuler</string>
+    <string name="redo">Rétablir</string>
+    <string name="done">Terminé</string>
+    <string name="save">Enregistrer</string>
+</resources>

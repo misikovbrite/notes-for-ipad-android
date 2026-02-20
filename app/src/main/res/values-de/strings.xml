@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notizen für Android</string>
+    <string name="my_notebooks">Meine Notizbücher</string>
+    <string name="create_notebook">Notizbuch erstellen</string>
+    <string name="no_notebooks_title">Noch keine Notizbücher</string>
+    <string name="no_notebooks_message">Erstelle dein erstes Notizbuch</string>
+    <string name="new_notebook">Neues Notizbuch</string>
+    <string name="notebook_name">Name des Notizbuchs</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="create">Erstellen</string>
+    <string name="delete">Löschen</string>
+    <string name="settings">Einstellungen</string>
+    <string name="template">Vorlage</string>
+    <string name="choose_template">Vorlage wählen</string>
+    <string name="daily_planner">Tagesplaner</string>
+    <string name="weekly_planner">Wochenplaner</string>
+    <string name="monthly_planner">Monatsplaner</string>
+    <string name="habit_tracker">Gewohnheits-Tracker</string>
+    <string name="journal">Tagebuch</string>
+    <string name="onboarding_get_started">Loslegen</string>
+    <string name="onboarding_next">Weiter</string>
+    <string name="onboarding_skip">Überspringen</string>
+    <string name="notes_premium">Notizen Premium</string>
+    <string name="start_free_trial">Kostenlos testen</string>
+    <string name="subscribe_now">Jetzt abonnieren</string>
+    <string name="restore_purchases">Käufe wiederherstellen</string>
+    <string name="add_page">Seite hinzufügen</string>
+    <string name="export_pdf">PDF exportieren</string>
+    <string name="undo">Rückgängig</string>
+    <string name="redo">Wiederholen</string>
+    <string name="done">Fertig</string>
+    <string name="save">Speichern</string>
+</resources>

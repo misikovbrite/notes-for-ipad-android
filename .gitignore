@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Google services (real file - add your actual file)
+# app/google-services.json  # Keep placeholder, replace with real before build
