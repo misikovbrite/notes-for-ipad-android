@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<paths>
-    <cache-path name="pdfs" path="pdfs/"/>
-    <files-path name="drawings" path="drawings/"/>
-    <files-path name="thumbnails" path="thumbnails/"/>
-</paths>
