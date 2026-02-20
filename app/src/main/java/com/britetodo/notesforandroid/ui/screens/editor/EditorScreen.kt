@@ -1,5 +1,6 @@
 package com.britetodo.notesforandroid.ui.screens.editor
 
+import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.gestures.detectDragGestures

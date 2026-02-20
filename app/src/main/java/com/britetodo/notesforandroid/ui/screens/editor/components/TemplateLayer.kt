@@ -31,7 +31,7 @@ fun TemplateLayer(
                 val renderer = EntryPointAccessors
                     .fromApplication(context.applicationContext, TemplateRendererEntryPoint::class.java)
                     .templateRenderer()
-                renderer.renderToBitmap(template, colorTheme = colorTheme)
+                renderer.renderToBitmap(template, theme = colorTheme)
             } catch (e: Exception) {
                 null
             }
